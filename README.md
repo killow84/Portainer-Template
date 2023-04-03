@@ -43,3 +43,6 @@ mediapot: https://raw.githubusercontent.com/mediadepot/templates/master/portaine
     https://github.com/mediadepot/templates
 
 Default Portainer Template: https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
+
+https://raw.githubusercontent.com/TheLustriVA/portainer-templates-Nov-2022-collection/main/mlva-templates-2.0-deduped.json
+
